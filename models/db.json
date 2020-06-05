@@ -1,0 +1,72 @@
+{
+  "products": [
+    {
+      "name": "apple",
+      "price": "20",
+      "src": "/img/products/Work1.jpg"
+    },
+    {
+      "name": "orange",
+      "price": "100",
+      "src": "/img/products/Work2.jpg"
+    },
+    {
+      "name": "Another product",
+      "price": "30",
+      "src": "\\upload\\Work3.jpg"
+    },
+    {
+      "name": "Best product",
+      "price": "50",
+      "src": "\\upload\\Work4.jpg"
+    },
+    {
+      "name": "My product",
+      "price": "150",
+      "src": "\\upload\\Work5.jpg"
+    },
+    {
+      "name": "Awesome product",
+      "price": "75",
+      "src": "\\upload\\Work6.jpg"
+    },
+    {
+      "name": "Old product",
+      "price": "80",
+      "src": "\\upload\\Work7.jpg"
+    },
+    {
+      "name": "Interesting product",
+      "price": "50",
+      "src": "\\upload\\Work8.jpg"
+    },
+    {
+      "name": "Favourite product",
+      "price": "60",
+      "src": "\\upload\\Work9.jpg"
+    }
+  ],
+  "skills": {
+    "age": {
+      "number": "25",
+      "text": "Возраст начала занятий на скрипке"
+    },
+    "concerts": {
+      "number": "18",
+      "text": "Концертов отыграл"
+    },
+    "cities": {
+      "number": "9",
+      "text": "Максимальное число городов в туре"
+    },
+    "years": {
+      "number": "6",
+      "text": "Лет на сцене в качестве скрипача"
+    }
+  },
+  "user": {
+    "email": "test@test.com",
+    "hash": "3ac404394d04f6ac8791c7eca5b03038501d585dd1aa809843e2fa92866255aec90ad34474f366233e86faaf755bbd7281f4c9467d9a0f9672f21b5e4d3c7ab5cd157474d929ad50a957dcaab78735fdeb2be1f077d8242bd6dc66d05b4eb305e62b8ad25466641d1a3430b94fe1a0182e438f2a6c23d472b03bf1b3a5adaefe21871fa3e2a007d27140a4ab426bcd93f3da2fb11e256f5b53ba4a34969ad4387db87b3f490cd4aa94d839221362152bdda828cac82d90ae408343a79525868a7a7a044ed537e0aecacb1ea7f4814c98313623ef11277e1b804dcc02188ec415eef6405397d0db35e2aa23b52fef34f6ccc2ad9224617a2cb533b61b9c79cb372ecd797aed7c2f501df6392642a17b7474b97b565d3c521ac9e057d2738c91cac8e2510358ef3a3b2df6792529191c70e7da10238b561a2deba4028270cc58049ecf12cbba0e10a8d8f98fc646febebaa8ecf9e1173e460ba45fb80849004aebcd39ce243e8f8fdbac673f16917274728b59f4fed726815f403c06b8e497dd341259fbbc94507eb0c99af961727038ddd63379e19363dff749bc0cce5cfe9868f0cc11ac32f887ad0eb207332871d2c447fb3b7ff452290676a081b473bf933f4bafe75e0ef0cf8b99d937cff896acecfd103e3047d1278d05201a14c2676ef79dadc060756a6621142f13d2ec6c7e5a9ba14965e0fe2c3bb69a9c00533213cf",
+    "salt": "5ce725501c9a7995949e90f966307bbc"
+  }
+}
