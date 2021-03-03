@@ -20,7 +20,7 @@
     "koa-session": "^6.0.0",
     "koa-static": "^5.0.0",
     "lowdb": "^1.0.0",
-    "pug": "^3.0.0"
+    "pug": "^3.0.1"
   },
   "devDependencies": {
     "eslint": "^7.1.0",
